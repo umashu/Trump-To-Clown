@@ -1,0 +1,1 @@
+This Chrome extension replaces word Trump with 'The Clown 🤡'
